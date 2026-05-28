@@ -1,0 +1,12 @@
+[
+    {
+        "id": "mem_1",
+        "text": "Target early-adopter tech professionals first to validate our product value.",
+        "category": "Strategy"
+    },
+    {
+        "id": "mem_2",
+        "text": "Codebase scalability is a priority; CTO prefers robust serverless setups.",
+        "category": "Tech Stack"
+    }
+]
